@@ -75,7 +75,7 @@ for ($i = 0;$i < $size; $i++) {
             Nombre: <input type="text" name="nombre" minlength="3"/>
         </label><br />
         <label for="telefono">
-            Telefono: <input type="text" name="telefono" pattern="[0-9]{9}" size="9" />
+            Email: <input type="text" name="email"" />
         </label><br />
         <input type="submit" value="Añadir Contacto" name="Enviar" />
         <input type="submit" value="Eliminar Contactos" name="Enviar" onclick="<?= borrar($agenda) ?>"/>
