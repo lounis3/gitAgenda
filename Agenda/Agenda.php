@@ -10,7 +10,7 @@ $agenda[$nuevoNombre]=$nuevoTelefono;
 
 if (isset($nuevoNombre) && strlen($nuevoNombre)==0) {
     echo "<div class='warning'>";
-    $msj =  "Dime tus Datos de Acceso";
+    $msj =  "Datos de Acceso obligatorios";
     echo "</div>";
 }
 
