@@ -78,7 +78,6 @@ for ($i = 0;$i < $size; $i++) {
             Email: <input type="text" name="email"" />
         </label><br />
         <input type="submit" value="Añadir Contacto" name="Enviar" />
-        <input type="submit" value="Eliminar Contactos" name="Enviar" onclick="<?= borrar($agenda) ?>"/>
         <?php
 
         foreach ($agenda as $nombre => $telefono) {
