@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Agenda.iml" filepath="$PROJECT_DIR$/.idea/Agenda.iml" />
+      <module fileurl="file://C:/idiomas1/Calculadora/.idea/Calculadora.iml" filepath="C:/idiomas1/Calculadora/.idea/Calculadora.iml" />
+      <module fileurl="file://C:/idiomas1/POO/.idea/POO.iml" filepath="C:/idiomas1/POO/.idea/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Practica_Multiidioma-master/.idea/Practica_Multiidioma-master.iml" filepath="$PROJECT_DIR$/../Practica_Multiidioma-master/.idea/Practica_Multiidioma-master.iml" />
+      <module fileurl="file://C:/idiomas1/expReg/.idea/expReg.iml" filepath="C:/idiomas1/expReg/.idea/expReg.iml" />
+      <module fileurl="file://E:/Desarrollo Web Entorno Servidor/agenda/mclibre-agenda/.idea/mclibre-agenda.iml" filepath="E:/Desarrollo Web Entorno Servidor/agenda/mclibre-agenda/.idea/mclibre-agenda.iml" />
+    </modules>
+  </component>
+</project>
