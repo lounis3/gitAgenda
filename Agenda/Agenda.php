@@ -10,14 +10,14 @@ $agenda[$nuevoNombre]=$nuevoTelefono;
 
 if (isset($nuevoNombre) && strlen($nuevoNombre)==0) {
     echo "<div class='warning'>";
-    $msj =  "Los campos nombre y telefono son obligatorios";
+    $msj =  "Introduce datos";
     echo "</div>";
 }
 
 $nombre= filter_input(INPUT_POST, 'nombre');
 if ($nombre) {
     echo '<div class="warning">';
-    echo '  No hay registros en la agenda.';
+    echo '  No hay contactos en la agenda';
     echo '</div>';
 }
 
